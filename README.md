@@ -26,7 +26,4 @@ Run testing.py to use the trained model to perform liver segmentation on a new m
 
 Run frontend.py to launch the Streamlit app for visualizing the results of liver segmentation on a selected medical image.
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
